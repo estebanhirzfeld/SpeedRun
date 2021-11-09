@@ -1,0 +1,35 @@
+nav {
+  border-radius: 0px 0px 15px 15px;
+  box-shadow: 5px 5px 14px 5px rgba(0, 0, 0, 0.35); }
+
+button {
+  border: none;
+  outline: none; }
+
+img {
+  border-radius: 10%; }
+
+.buttonRadius {
+  border-radius: 25px; }
+
+.greyBackground {
+  border-radius: 0px 0px 200px 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 300px;
+  background-color: #f4f4f4; }
+
+.lightblueBackground {
+  background-color: #1496ff; }
+
+.whiteText {
+  color: white; }
+
+.lightblueText {
+  color: #1496ff; }
+
+.diagonalRadius {
+  border-radius: 0px 25px 0px 25px; }
+
+.footerDiv {
+  height: 200px; }
